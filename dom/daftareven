@@ -1,0 +1,37 @@
+// Daftar Event
+// 1. mouse event
+// 2. keyboard event
+// 3. resources event
+// 4. focus event
+// 5. view event
+// 6. form event
+// 7. css animation & transition event
+// 8. drag & drop event
+// dll
+
+Mouse event
+1. click
+2. dblclick
+3. mouseover(kursor di atas element tertentu)
+4. mouseenter
+5. mouseleave
+5. mouseup
+6. wheel
+.... 
+
+keyboard event
+
+1. keydown
+2. keypress
+3. keyup
+...
+
+vew event
+1. resize
+2. scroll
+
+form event
+1. reset
+2. submit
+
+
